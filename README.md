@@ -4,8 +4,8 @@ My collection of [book quotes](https://www.goodreads.com/user/show/124508735-b) 
 
 ## Index
 
-[The Sovereign Individual](#the-sovereign-individual-mastering-the-transition-to-the-information-age)
-[Bitcoin Standard](#the-bitcoin-standard)
+* [The Sovereign Individual](#the-sovereign-individual-mastering-the-transition-to-the-information-age)
+* [Bitcoin Standard](#the-bitcoin-standard)
 
 ## Books
 
