@@ -11,37 +11,21 @@ My collection of [book quotes](https://www.goodreads.com/user/show/124508735-b) 
 
 ### The Sovereign Individual: Mastering the Transition to the Information Age
 
-```
-the government often operates like organized crime, extracting resources from people within its sphere of operations as tribute or plunder. Government is not only a protection service; it is also a protection racket.
-```
+> the government often operates like organized crime, extracting resources from people within its sphere of operations as tribute or plunder. Government is not only a protection service; it is also a protection racket.
 
-```
-Citizens who thrive in the global society will identify themselves globally. They will make political, social, and economic choices based not on national identity, but on how those choices relate to themselves directly
-```
+> Citizens who thrive in the global society will identify themselves globally. They will make political, social, and economic choices based not on national identity, but on how those choices relate to themselves directly
 
-```
-“What the Net offers is the promise of a new social space, global and anti-sovereign, within which anybody, anywhere can express to the rest of humanity whatever he or she believes without fear. There is in these new media a foreshadowing of the intellectual and economic liberty that might undo all the authoritarian powers on earth.”
-```
+> “What the Net offers is the promise of a new social space, global and anti-sovereign, within which anybody, anywhere can express to the rest of humanity whatever he or she believes without fear. There is in these new media a foreshadowing of the intellectual and economic liberty that might undo all the authoritarian powers on earth.”
 
-```
-But old laws seldom can resist new technology. In the 1980s, it was illegal in the United States to send a fax message. The U.S. Post Office considered faxes to be first-class mail, over which the U.S. Post Office claimed an ancient monopoly. An edict to that effect was issued reiterating the requirement that all fax transmissions be routed to the nearest post office for delivery with regular mail.
-```
+> But old laws seldom can resist new technology. In the 1980s, it was illegal in the United States to send a fax message. The U.S. Post Office considered faxes to be first-class mail, over which the U.S. Post Office claimed an ancient monopoly. An edict to that effect was issued reiterating the requirement that all fax transmissions be routed to the nearest post office for delivery with regular mail.
 
-```
-When Sovereign Individuals can deal across borders in a realm with no physical reality, they will no longer need to tolerate the long-rehearsed practice of governments degrading the value of their money through inflation. Why should they?
-```
+> When Sovereign Individuals can deal across borders in a realm with no physical reality, they will no longer need to tolerate the long-rehearsed practice of governments degrading the value of their money through inflation. Why should they?
 
-```
-The new digital money of the Information Age will return control over the medium of exchange to the owners of wealth, who wish to preserve it, rather than to nation-states that wish to spirit it away.
-```
+> The new digital money of the Information Age will return control over the medium of exchange to the owners of wealth, who wish to preserve it, rather than to nation-states that wish to spirit it away.
 
-```
-Privatizing Money Friedrich von Hayek argued in 1976 that the use of competitive, private currencies would eradicate inflation.20 Without legal-tender requirements forcing acceptance of an inflating currency within a jurisdiction, Hayek argued, market competition would force the private issuers of currency to preserve the value of their exchange media.
-```
+> Privatizing Money Friedrich von Hayek argued in 1976 that the use of competitive, private currencies would eradicate inflation.20 Without legal-tender requirements forcing acceptance of an inflating currency within a jurisdiction, Hayek argued, market competition would force the private issuers of currency to preserve the value of their exchange media.
 
-```
-Holding a U.S. passport is destined to become a major drawback to realizing the opportunities for individual autonomy made possible by the Information Revolution.
-```
+> Holding a U.S. passport is destined to become a major drawback to realizing the opportunities for individual autonomy made possible by the Information Revolution.
 
 ```
 Not withstanding the fact that the right to expatriate is enshrined in the U.S. Declaration of Independence, the U.S. is likely to be one of the more tyrannical jurisdictions blocking the emergence of commercialized sovereignty.
