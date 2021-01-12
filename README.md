@@ -16,26 +16,36 @@ My collection of [book quotes](https://www.goodreads.com/user/show/124508735-b) 
 
 ### The Sovereign Individual: Mastering the Transition to the Information Age
 
+On Governments and stuff
 > the government often operates like organized crime, extracting resources from people within its sphere of operations as tribute or plunder. Government is not only a protection service; it is also a protection racket.
 
+On Global citizens
 > Citizens who thrive in the global society will identify themselves globally. They will make political, social, and economic choices based not on national identity, but on how those choices relate to themselves directly
 
+On the Internet
 > “What the Net offers is the promise of a new social space, global and anti-sovereign, within which anybody, anywhere can express to the rest of humanity whatever he or she believes without fear. There is in these new media a foreshadowing of the intellectual and economic liberty that might undo all the authoritarian powers on earth.”
 
+On laws and regulations stifling innovation
 > But old laws seldom can resist new technology. In the 1980s, it was illegal in the United States to send a fax message. The U.S. Post Office considered faxes to be first-class mail, over which the U.S. Post Office claimed an ancient monopoly. An edict to that effect was issued reiterating the requirement that all fax transmissions be routed to the nearest post office for delivery with regular mail.
 
+On inflation
 > When Sovereign Individuals can deal across borders in a realm with no physical reality, they will no longer need to tolerate the long-rehearsed practice of governments degrading the value of their money through inflation. Why should they?
 
+On going where you are treated better
 > The new digital money of the Information Age will return control over the medium of exchange to the owners of wealth, who wish to preserve it, rather than to nation-states that wish to spirit it away.
 
+On Private money vs State issued money
 > Privatizing Money Friedrich von Hayek argued in 1976 that the use of competitive, private currencies would eradicate inflation.20 Without legal-tender requirements forcing acceptance of an inflating currency within a jurisdiction, Hayek argued, market competition would force the private issuers of currency to preserve the value of their exchange media.
 
+On being a US citizen (Slavery never got abolished :D)
 > Holding a U.S. passport is destined to become a major drawback to realizing the opportunities for individual autonomy made possible by the Information Revolution.
 
+On the people of the US not really learning about their rights, despite it being in the declaration of independence.
 > Not withstanding the fact that the right to expatriate is enshrined in the U.S. Declaration of Independence, the U.S. is likely to be one of the more tyrannical jurisdictions blocking the emergence of commercialized sovereignty.
 
 ### The Bitcoin Standard
 
+On bitcoins true decentralization powers
 > Bitcoin can be best understood as distributed software that allows for transfer of value using a currency protected from unexpected inflation without relying on trusted third parties. In other words, Bitcoin automates the functions of a modern central bank and makes them predictable and virtually immutable by programming them into code decentralized among thousands of network members, none of whom can alter the code without the consent of the rest.
 
 > Sound money allows people to think about the long term and to save and invest more for the future. Saving and investing for the long run are the key to capital accumulation and the advance of human civilization.
