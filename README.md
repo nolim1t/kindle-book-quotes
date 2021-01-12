@@ -2,6 +2,11 @@
 
 My collection of [book quotes](https://www.goodreads.com/user/show/124508735-b) out of Amazon Goodreads, in case Amazon start hating on me (unlikely but you never know).
 
+## Index
+
+[The Sovereign Individual](#the-sovereign-individual-mastering-the-transition-to-the-information-age)
+[Bitcoin Standard](#the-bitcoin-standard)
+
 ## Books
 
 ### The Sovereign Individual: Mastering the Transition to the Information Age
